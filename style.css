@@ -1,0 +1,26 @@
+.container-fluid{
+    height: 100vh !important;
+    background-color: #16423C;
+    border: 0;
+}
+.qBox{
+    background-color: #6A9C89;
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+}
+
+.btn-div{
+    /* width: 50%;   */
+    border-radius: 10px;
+  background-color: #6A9C89 !important;
+}
+
+.btn-div button{
+    background-color: #16423C;
+    
+}
+.btn-div button:hover{
+    background-color: #16423C;
+
+}
